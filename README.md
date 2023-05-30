@@ -12,7 +12,7 @@
 
 ### Front-End:
 
-<img src="./Icons/HTML5.jpeg" width="40" height="40"><img src="./Icons/CSS3.png" width="40" height="40"><img src="./Icons/bootstrap.png" width="40" height="40"><img src="./Icons/JS.jpeg" width="40" height="40"><img src="./Icons/jquery.gif" width="40" height="40"><img src="./Icons/webpack.png" width="40" height="40">
+<img src="./Icons/html5.png" width="40" height="40"><img src="./Icons/css3.jpeg" width="40" height="40"><img src="./Icons/bootstrap.png" width="40" height="40"><img src="./Icons/JS.jpeg" width="40" height="40"><img src="./Icons/jquery.gif" width="40" height="40"><img src="./Icons/webpack.png" width="40" height="40">
 
 ### Back-End:
 
