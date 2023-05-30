@@ -12,16 +12,15 @@
 
 ### Front-End:
 
-<img src="./Icons/html5.png" width="40" height="40"><img src="./Icons/css3.jpeg" width="40" height="40"><img src="./Icons/bootstrap.png" width="40" height="40"><img src="./Icons/JS.jpeg" width="40" height="40"><img src="./Icons/jquery.gif" width="40" height="40"><img src="./Icons/webpack.png" width="40" height="40">
+<img src="./Icons/html5.png" width="40" height="40"><img src="./Icons/css3.png" width="40" height="40"><img src="./Icons/bootstrap.png" width="40" height="40"><img src="./Icons/javascript.png" width="40" height="40"><img src="./Icons/jquery.png" width="40" height="40"><img src="./Icons/REACT.png" width="40" height="40">
 
 ### Back-End:
 
-<img src="./Icons/python.png" width="40" height="40"><img src="./Icons/django.jpeg" width="40" height="40"><img src="./Icons/flask.png" width="40" height="40"><img src="./Icons/mysql.png" width="40" height="40"><img src="./Icons/postgresql.jpg" width="60" height="40">
+<img src="./Icons/python.png" width="40" height="40"><img src="./Icons/dj.png" width="40" height="40"><img src="./Icons/flask.png" width="40" height="40"><img src="./Icons/mysql.png" width="40" height="40"><img src="./Icons/pgsql.png" width="60" height="40">
 
 ### General:
 
-<img src="./Icons/linux.jpeg" width="40" height="40"><img src="./Icons/bash.jpeg" width="40" height="40">
-
+<img src="./Icons/linux.png" width="40" height="40"><img src="./Icons/github.png" width="40" height="40">
 <!--
 **Amrabrazek/Amrabrazek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
