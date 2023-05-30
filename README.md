@@ -2,10 +2,11 @@
 
 ### About me
 
-- Hi there 👋 I’m a full stack web developer and a passionate learner who loves to create beautiful and functional websites.
-- 🌱 I’m currently learning C++ and Data Structures and Algorithms to improve my development skills
-- 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, React, Python, Django, Flask and anything web related
-- 📫 How to reach me: you can email me at karim.maged2020@yahoo.com
+- Hi there 👋 I’m a full stack web developer and a passionate learner.
+- 🔭 I’m currently working on my graduation project from ITI intensive code camp . 
+- 🌱 I’m currently learning flask and AWS cloud services to take the aws cloud practitioner
+- 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, React, Python, Django, MYSQL, postgreSQL,linux and anything web related
+- 📫 How to reach me: you can email me at amr.3brazek@gmail.com
 
 ## My Skills
 
