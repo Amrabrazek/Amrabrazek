@@ -4,9 +4,9 @@
 
 - Hi there 👋 I’m a full stack developer and a passionate learner.
 - 🔭 I’m currently working on my graduation project from ITI intensive code camp . 
-- 🌱 I’m currently learning flask and AWS cloud services to take the aws cloud practitioner
-- 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, React, Python, Django, MYSQL, postgreSQL,linux and anything web related
-- 📫 How to reach me: you can email me at amr.3brazek@gmail.com
+- 🌱 I’m currently learning AWS cloud services to take the AWS cloud practitioner
+- 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, React, Python, Django, FLask, MYSQL, postgreSQL,linux and anything web related
+- 📫 How to reach me: you can email me at amr.3brazek@gmail.com 
 
 ## My Skills
 
