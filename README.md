@@ -20,7 +20,7 @@
 
 ### General:
 
-<img src="./Icons/linux.png" width="40" height="40"><img src="./Icons/github.png" width="40" height="40">
+<img src="./Icons/linux.png" width="40" height="40"><img src="./Icons/github.png" width="40" height="40"><img src="./Icons/AWS.jpeg" width="40" height="40"><img src="./Icons/AGILE.png" width="40" height="40">
 <!--
 **Amrabrazek/Amrabrazek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
