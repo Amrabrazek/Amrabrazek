@@ -2,10 +2,10 @@
 
 ### About me
 
-- Hi there 👋 I’m a full stack developer and a passionate learner.
-- 🔭 I’m currently working as a full stack web developer in a project based role . 
+- Hi there 👋 I’m a full stack developer (AWS CP Citified) and a passionate learner.
+- 🔭 I’m currently working as a full stack web developer. 
 - 🌱 I’m currently learning NOSQL databases.
-- 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, React, Next, Python, Django, FLask, MYSQL, postgreSQL,linux, AWS and anything web related
+- 💬 Ask me about HTML, CSS, JavaScript, TypeScript, Python, Bootstrap, Tailwind, React, Next, Django, FLask, MYSQL, postgreSQL, Supabase, linux, AWS and anything web related
 - 📫 How to reach me: you can email me at amr.3brazek@gmail.com 
 
 ## My Skills
