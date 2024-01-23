@@ -2,7 +2,7 @@
 
 ### About me
 
-- Hi there 👋 I’m a full stack developer (AWS CP Citified) and a passionate learner.
+- Hi there 👋 I’m a full stack developer (AWS CP Certified) and a passionate learner.
 - 🔭 I’m currently working as a full stack web developer. 
 - 🌱 I’m currently learning NOSQL databases.
 - 💬 Ask me about HTML, CSS, JavaScript, TypeScript, Python, Bootstrap, Tailwind, React, Next, Django, FLask, MYSQL, postgreSQL, Supabase, linux, AWS and anything web related
